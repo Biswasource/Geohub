@@ -1,0 +1,8 @@
+{
+  "name": "GeoForce Manager",
+  "description": "A comprehensive field force management system featuring live GPS tracking, task assignment, and mobile agent check-ins with photo proof.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
